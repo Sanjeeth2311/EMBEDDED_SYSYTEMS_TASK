@@ -1,0 +1,14 @@
+Components:
+
+Arduino Uno
+Push Button
+10kΩ Resistor (pull-down)
+
+Connections:
+Component	             Arduino Uno Pin
+Push Button    -        1st leg	Pin 2
+Push Button    -        2nd leg	GND (via 10kΩ resistor) and also to 5V
+
+Wokwi Simulation Link
+👉 Click here to open in Wokwi - https://wokwi.com/projects/428098537657916417
+
